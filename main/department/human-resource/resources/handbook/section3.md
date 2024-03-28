@@ -24,7 +24,7 @@ All rest and meal periods will be in accordance with **_New York_** state law.
 
 [Nonexempt](/main/department/human-resource/resources/handbook/section2.md#nonexempt-employees) employees are required to keep an accurate and complete records of their attendance and hours worked. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > Time cards are official business records and may not be altered without the [Human Resource](mailto:hr@devneta.org) department's approval and may not be falsified in anyway.
 
 ### Section 3.5 - Payroll Deductions

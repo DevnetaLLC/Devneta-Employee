@@ -7,7 +7,7 @@
 
 Aside from those benefits required by **_state_** and **_federal_** regulations, Devneta LLC also offers additional benefits for our full-time employees. <br />
 
-> [!CAUTION]
+> [!IMPORTANT]
 > From time to time, benefits may be added or deleted. <br />
 > We reserve the right to make such changes. <br />
 
@@ -47,7 +47,7 @@ Under **_Section 125_** of the **_IRS Code_**, we have set up a flexible spendin
 
 This plan allows employees to withhold a portion of their salary on a pre-tax basis to cover the cost of qualifying insurance premiums, out of pocket medical expenses, and dependant care expenses (child and, or elder care) such as day care expenses, and in-home dependent care. An amount selected by the employee is deducted on a pre-tax basis to cover these expenses. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > Any unused amounts in the medical and dependent care account will be forfeited after the end of the plan year.
 
 ### Section 5.6 - 401(k) Plan
@@ -78,12 +78,12 @@ All states have Workers' Compensation laws whose purpose is to promote the gener
 
 These laws are designed to provide protection to workers suffering occupational disabilities through accidents arising out of, and in the course of employment. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > Devneta LLC carries Workers' Compensation for all employees and pays the entire cost of the insurance program.
 
 An employee who suffers an injury or illness in connection with the job is usually eligible to receive payment through the insurance company for lost wages. In addition to disability payments, necessary hospital, medical, and surgical expenses are covered under Workers' Compensation, with payments being made directly to the hospital or physician. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > Workers' Compensation benefits to injured workers also include assistance to help qualified injured employees return to suitable employment.
 
 ### Section 5.10 - Social Security Benefits (FICA)
