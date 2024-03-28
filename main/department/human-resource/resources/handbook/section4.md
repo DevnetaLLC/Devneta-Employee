@@ -21,10 +21,8 @@ Our commitment to diversity applies to hiring practices, promotions, pay and ben
 
 The Company is committed to providing a work environment free of sexual or any form of unlawful harassment or discrimination. Harassment or unlawful discrimination against individuals on the basis of race, religion, creed, color, national origin, pregnancy, sexual orientation, gender identity and expression, age, ancestry, physical or mental disability, genetic information, marital status, or other classification protected by **_local_**, **_state_**, or **_federal_** laws is illegal and prohibited by our policy. <br />
 
-> [!CAUTION]
-> Such conduct by or towards any employee, contract worker, customer, vendor, or anyone else who does business with us will **_not be tolerated_**. **_Any_** employee or contract worker who violates this policy will be subject to disciplinary action, up to and including **_termination_** of their employment or engagement. 
-
-> [!CAUTION]
+> [!WARNING]
+> Such conduct by or towards any employee, contract worker, customer, vendor, or anyone else who does business with us will **_not be tolerated_**. **_Any_** employee or contract worker who violates this policy will be subject to disciplinary action, up to and including **_termination_** of their employment or engagement. <br />
 > To the extent a customer, vendor, or other person with whom we do business engages in unlawful harassment or discrimination, we will take appropriate corrective action.
 
 #### Names, Pronouns
@@ -62,7 +60,7 @@ Employees or contract workers who feel that they have been harassed or discrimin
 
 **_Do not_** allow an inappropriate situation to continue by not reporting it, regardless of who is creating the situation. No employee, contract worker, customer, vendor, or other person who does business with this organization is exempt from the prohibitions in this policy. In response to every complaint, we will conduct an investigation which may involve interviewing witnesses if warranted and, if improper conduct is found, take appropriate corrective action. <br />
 
-> [!IMPORTANT]
+> [!TIP]
 > To the extent that an employee or contract worker is not satisfied with our handling of a harassment or discrimination complaint, they may also contact the appropriate state or federal enforcement agency for legal relief.
 
 ### Section 4.2 - Attendance
@@ -73,10 +71,10 @@ If an employee is unable to report to work (or to report to work on time) for an
 
 If an employee desires to leave work for any reason during the workday, the employee must obtain the approval of their supervisor prior to leaving. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > In the event that the employee fails to call their supervisor or notify the [Human Resource](mailto:hr@devneta.org) department or report for work for **_three consecutive workdays_**, the employee will be deemed to have voluntarily resigned from their employment with us and will be removed from the payroll.
 
-> [!CAUTION]
+> [!WARNING]
 > Excessive absenteeism or tardiness may subject the employee to disciplinary action, up to and including termination.
 
 ### Section 4.3 - Discipline and Standards of Conduct
@@ -95,7 +93,7 @@ Discipline may take various forms, including: <br />
 
 The discipline imposed will depend on the circumstances of each case; therefore, discipline will not necessarily be imposed in any particular sequence. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > At any time we determine it is appropriate, an employee may be terminated immediately. <br />
 
 Every organization must have a certain standards of conduct to guide the behavior of employees. Although there is no possible way to identify every rule of conduct, the following is an illustrative list (not intended to be comprehensive or to limit our right to impose discipline for any other conduct is deems inappropriate). <br />
@@ -113,10 +111,10 @@ Every organization must have a certain standards of conduct to guide the behavio
    + Unauthorized use or disclosure of our confidential information; <br />
    + Violation of any Company policy. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > Keep in mind that these standards of conduct apply to all employees whenever they are on our property and, or conducting Company business (on or off our property).
 
-> [!CAUTION]
+> [!WARNING]
 > Engaging in any conduct we deem inappropriate may result in disciplinary action, up to and including termination.
 
 ### Section 4.4 - Dress Code
@@ -131,7 +129,7 @@ Animals that are considered registered service animals or emotional support anim
 
 Personal pets will be reviewed on a case-by-case basis, for more information contact the [Management](mailto:management@devneta.org) department. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > Please inform the [Management](mailto:management@devneta.org) department if you intend to bring an animal to the workplace. <br />
 
 ### Section 4.6 - Safety
@@ -151,17 +149,17 @@ In keeping with this commitment, we maintain a strict policy against the use of 
 
 No employee may report to work with illegal drugs (or their metabolites) or alcohol in his or her bodily system. The only exception to this rule is that employees may engage in moderate consumption of alcohol that may be served and, or consumed as part of an authorized Company social or business event. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > "**_Illegal drug_**" means any drug that is not legally obtainable or that is legally obtainable but has not been legally obtained. It includes prescription drugs not being used for prescribed purposes or by the person to whom it is prescribed or in prescribed amounts. It also includes any substance a person holds out to another as an illegal drug. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > Any violation of this policy will result in disciplinary action, up to and including termination. <br />
 
 Any employee who feels they have developed an addition to, dependence upon, or problem with alcohol or drugs, legal or illegal, is strongly encouraged to seek assistance before a violation of this policy occurs. Any employee who requests time off to participate in a rehabilitation program will be reasonably accommodated. <br />
 
 However, employees may not avoid disciplinary action, up to and including termination by entering a rehabilitation program after a violation of this policy is suspected or discovered. <br />
 
-> [!NOTE]
+> [!TIP]
 > If you are struggling with an addition, or problem with alcohol or drugs, we are here to help. <br />
 > Please reach out to our [Human Resource](mailto:hr@devneta.org) for more information. <br />
 
@@ -171,10 +169,10 @@ All offices, desks, file drawers, cabinets, lockers, Company vehicles, and other
 
 Employees should have no expectation of privacy with respect to Company Property and, or items stored within Company Property or on the Company's premises. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > Inspection may be conducted at **any time**, **without notice**, **at the discretion of the Company**. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > Whenever we deem appropriate, employees may be required to submit to searches of their personal vehicles, parcels, purses, handbags, backpacks, briefcases, lunch boxes, or any other possessions or articles brought onto our premises.
 
 Persons entering the premises who refuse to cooperate in an inspection conducted pursuant to this policy may not be permitted to enter the premises. All employees must cooperate in an inspection; failure to do so is insubordination and will result in disciplinary action, up to and including termination. <br />
@@ -207,7 +205,7 @@ We may provide cell phone allowances to employees in an effort to improve effici
 
 When cell phones are being used for Company business, employees must comply with all Company policies governing conduct, including our policies prohibiting discrimination, harassment, and violence in the workplace. When using the cell phone in a public place, please remember to maintain the confidentiality of any private or confidential business information. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > When cell phone use interferes with the satisfactory performance of an employee's duties or disturbs others, the privilege of using a personal cell phone at work may be taken away, and other disciplinary action, up to and including termination, may be imposed. <br />
 
 ---

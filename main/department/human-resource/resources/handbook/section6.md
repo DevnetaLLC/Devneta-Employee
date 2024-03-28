@@ -13,18 +13,18 @@ We have available a number of types of leaves of absence. Some are governed by l
 > For all planned leaves, employees must submit a request at least **_fourteen_** (**_14_**) days in advance.
 > In case of emergencies, employees should submit the request as soon as they become aware of the need for leave.
 
-> [!CAUTION]
+> [!IMPORTANT]
 > All leaves must have the approval of our [Management](mailto:management@devneta.org) department.
 
 If during a leave, an employees accepts another job, engages in other employment or consulting outside of the Company, or applies for unemployment insurance benefits, the employee may be considered to have voluntarily resigned from employment with the Company. <br />
 
 All requests for leave of absence will be considered in light of their effect on us and our work requirements, as determined by our [Management](mailto:management@devneta.org) department, which reserves the right to approve or deny such requests in its sole discretion, unless otherwise required by law. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > For disability-related leave requests, we will engage in an interactive process with the employee to determine if leave is the most appropriate accommodation. <br />
 > Employees must provide a certification from their healthcare provider to us to support leave for medical reasons.
 
-> [!CAUTION]
+> [!WARNING]
 > Failure to provide the required certification to us in a timely manner will result in delay or denial of leave. <br />
 
 If an employee requires an extension of leave, the employee must request such extension and have it approved before the expiration of the currently approved leave. <br />
@@ -35,12 +35,12 @@ _While we will make a reasonable effort to return the employee to their former p
 
 Eligible employees are entitled to **_twenty-one_** (**_21_**) paid time off ("*_PTO_**") days **per year**. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > A PTO days' pay for regular [full-time employees](/main/department/human-resource/resources/handbook/section2.md#full-time-employees) will be calculated based on the employee's base pay rate times the number of hours the employee would otherwise have worked on that day.
 
 Regular part-time employees will be paid on a pro rata basis. Employees may not accrue more than 40 days of time off. Once an employee's time off balance reaches this limit, an employee may accrue more time off only by taking some time of to bring the balance back below the limit. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > When employees eligible for paid time off do not take the full amount of time off they could have taken in a year, that amount will be forfeited at the end of the year.
 
 ### Section 6.3 - Holidays
@@ -62,7 +62,7 @@ We observe the following **paid** holidays: <br />
 
 We will grant paid holiday time off to all eligible employees. Holiday pay for regular full-time employees will be calculated based on the employee's base pay rate (as of the date of the holiday) times the number of hours the employee would otherwise have worked on that day. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > Regular [part-time employees](/main/department/human-resource/resources/handbook/section2.md#part-time-employees) will be paid on a pro rata basis.
 
 > [!NOTE]
@@ -78,7 +78,7 @@ Leave provided for pregnancy disability is treated separate from leaves required
 
 Employees who wish to take a pregnancy disability leave must notify our [Human Resource](mailto:hr@devneta.org) department of the date the leave is expected to commence and the estimated duration of the leave.<br />
 
-> [!CAUTION]
+> [!IMPORTANT]
 > The employee must also provide medical certification of disability to us. <br />
 > Failure to provide the required medical certification of disability to us in a timely manner will result in delay or denial of leave.
 
@@ -89,7 +89,7 @@ Before returning to work, the employee must provide a medical certification that
 
 Employees who are affected by pregnancy may also be eligible to transfer to a less strenuous or hazardous position or duties, provided certain prerequisites are met. Reasonable accommodations may be requested with the advice of the employee's healthcare provider. In addition, lactation accommodation is also available, upon request.
 
-> [!IMPORTANT]
+> [!NOTE]
 > For more information on pregnancy disability leave or transfer and its effect on the terms, conditions, or benefits of employment please contact our [Human Resource](mailto:hr@devneta.org) department.
 
 ### Section 6.5 - Family and Medical Leave 
@@ -125,22 +125,22 @@ When leave is requested for a family member who is ill or injured, the certifica
    3. an estimate of the amount of time the heath care provider believes the employee will be needed to care for the family member or covered service member, and <br />
    4. a statement that the condition warrants the participation of the employee to provide care. <br />
 
-> [!IMPORTANT]
+> [!WARNING]
 > We reserve the right to contact the health care provider to seek clarification of information in the certification, as needed, and may require re-certification, as appropriate. <br />
 
 Before returning to work at the conclusion of a leave due to the employee's own serious health condition, the employee is required to provide a certification from their healthcare provider regarding the employee's fitness for duty. The employee must provide the required medical certification to us in a timely manner to avoid a delay or denial of leave. <br />
 
 Family and medical leave may be taken for up to **12 work weeks** during the designated **12-month period** for the purposes described above. The 12-month period will be calculated based on a calendar year. Leave for the purpose described in 5, above (to care for a covered service member), may be taken for up to **26 work weeks** in a single **12-month period**. During the single 12-month period, an eligible employee shall be entitled to a combined total of **26 work weeks** of leave for the reasons specified in paragraphs 1-4 and 5 above. In other words, any family and medical leave taken for reasons specified in paragraphs 1-4 above (up to **12 weeks**), will be counted towards the total **26-week entitlement** permitted for leave to care for a _covered service member_ with a serious illness or injury during the single **12-month period**. All time off that qualifies as family and medical leave will be counted against the employee's federal and, if applicable, state family and medical leave entitlement to the fullest extent permitted by law. <br />
 
-> [!CAUTION]
+> [!NOTE]
 > During a family and medical leave, group benefits will be maintained for up to **12 work weeks** (or up to **26 work weeks** when leave is for the purpose of caring for a covered service member), as if the employee was continuously employed. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > If the employee does not return to work on the first workday following the expiration of an approved family and medical leave, the employee will be deemed to have resigned from their employment.
 
 Upon returning from such leave the employee will normally be reinstated to their original or equivalent position and will receive pay and benefits equivalent to those the employee received prior to the leave, as required by law. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > In certain circumstances, "key" employees may not be eligible for reinstatement following a family and medical leave. We will provide written notice to any "key" employee who is not eligible for reinstatement. <br />
 
 ### Section 6.6 - Workers' Compensation Leave
@@ -151,7 +151,7 @@ Any employee who is unable to work due to a work-related injury or illness and w
 
 In the event of a death in the immediate family, employees may have up to **three working days**, **with pay**, at their regular straight time rate or base salary , to handle family affairs and attend the funeral. <br />
 
-> [!NOTE]
+> [!TIP]
 > "Immediate family" is defined as: father, mother, brother, sister, spouse, domestic partner, child, mother-in-law, father-in-law, grandparents, and grandchildren. <br />
 
 ### Section 6.8 - Jury Duty
