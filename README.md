@@ -32,29 +32,28 @@ We have also included some resources to provide consumers in the account they re
 
 Resources within this section are required to be reviewed by **_all_** employees, contractors, and other forms of contributors who have access to our Services in any capacity. <br />
 
-> [!NOTE]
-> Some resources require you to sign, and submit to our [Human Resource](mailto:hr@devneta.org) or [Management](mailto:management@devneta.org) department.
-
 [Employee Handbook](/main/department/human-resource/resources/handbook/ack.md) <br />
-   + With additions to [Usage of Technology Policy](/main/department/human-resource/resources/handbook/usageoftech.md), and [Support & Approval Policy](/main/department/human-resource/resources/handbook/support-approval.md).
 
 > [!IMPORTANT]
+> With additions to the [Usage of Technology Policy](/main/department/human-resource/resources/handbook/usageoftech.md), and [Support & Approval Policy](/main/department/human-resource/resources/handbook/support-approval.md).
+
+> [!CAUTION]
 > The Employee Handbook **_must_** be signed and submitted to the [Human Resource](mailto:hr@devneta.org) and, or [Management](mailto:management@devneta.org) department.
 
 [Employment Eligibility Verification (Form I-9)](/main/department/human-resource/resources/i9/i-9.md) <br />
 
-> [!IMPORTANT]
+> [!CAUTION]
 > In order to be classified as a paid **_employee_** of Devneta LLC, you must reside or have authorization to work in the United States, and <br />
 > Complete and submit the [Employment Eligibility Verification (Form I-9)](/main/department/human-resource/resources/i9/i-9.md) to the [Human Resource](mailto:hr@devneta.org) department.
 
-In addition to completing the necessary steps for employment with Devneta LLc, you are also, at all times, required to follow and enforce our: <br />
-   + [Terms of Use](/main/policy/consumer/terms-of-use.md), <br />
-   + [Privacy Policy](/main/policy/consumer/privacy-policy.md), <br />
-   + [Acceptable Use Policy](/main/policy/consumer/acceptable-use.md), <br />
-   + [Cookies & Tracking Notice](/main/policy/consumer/cookies.md), <br />
-   + [Disclaimer](/main/policy/consumer/disclaimer.md), <br />
-   + [Shipping & Delivery Policy](/main/policy/consumer/shipping-delivery.md), <br />
-   + [Return Policy](/main/policy/consumer/returns.md). <br />
+In addition to completing the necessary steps for employment with Devneta LLC, you are also, at all times, required to follow and enforce our: <br />
+   1. [Terms of Use](/main/policy/consumer/terms-of-use.md), <br />
+   2. [Privacy Policy](/main/policy/consumer/privacy-policy.md), <br />
+   3. [Acceptable Use Policy](/main/policy/consumer/acceptable-use.md), <br />
+   4. [Cookies & Tracking Notice](/main/policy/consumer/cookies.md), <br />
+   5. [Disclaimer](/main/policy/consumer/disclaimer.md), <br />
+   6. [Shipping & Delivery Policy](/main/policy/consumer/shipping-delivery.md), <br />
+   7. [Return Policy](/main/policy/consumer/returns.md). <br />
 
 > [!CAUTION]
 > Failure to abide by, or enforce any of our policies can result in and up to the termination of your employment and ability to use our Services.
@@ -86,14 +85,14 @@ Resources within this section can provide employees with additional documentatio
 
 Within this section, you will find the policies and standards that all of our consumers are expected to follow and abide by, <br />
 
-It is the employees job to provide a client with a copy of the following policies before they start any service with Devneta LLC: <br />
-   + [Terms of Use](/main/policy/consumer/terms-of-use.md), <br />
-   + [Privacy Policy](/main/policy/consumer/privacy-policy.md), <br />
-   + [Acceptable Use Policy](/main/policy/consumer/acceptable-use.md), <br />
-   + [Cookies & Tracking Notice](/main/policy/consumer/cookies.md), <br />
-   + [Disclaimer](/main/policy/consumer/disclaimer.md), <br />
-   + [Shipping & Delivery Policy](/main/policy/consumer/shipping-delivery.md), <br />
-   + [Return Policy](/main/policy/consumer/returns.md). <br />
+It is the employees' job to provide a client with a copy of the following policies before they start any service with Devneta LLC: <br />
+   1. [Terms of Use](/main/policy/consumer/terms-of-use.md), <br />
+   2. [Privacy Policy](/main/policy/consumer/privacy-policy.md), <br />
+   3. [Acceptable Use Policy](/main/policy/consumer/acceptable-use.md), <br />
+   4. [Cookies & Tracking Notice](/main/policy/consumer/cookies.md), <br />
+   5. [Disclaimer](/main/policy/consumer/disclaimer.md), <br />
+   6. [Shipping & Delivery Policy](/main/policy/consumer/shipping-delivery.md), <br />
+   7. [Return Policy](/main/policy/consumer/returns.md). <br />
 
 
 ### Consumer Contacts
@@ -110,7 +109,7 @@ In the event a consumer would like to apply for a position with Devneta LLC, kin
 and inform them that we will require their [Consent to Background & Reference Check](/main/department/human-resource/consent/background-check.md) before proceeding with any application. <br />
 
 In the event a consumer has a problem with any member of our faculty, kindly direct them to contact our [Human Resource](mailto:hr@devneta.org) department. <br />
-If the problem is with a member of our Human Resource or Management department, kindly direct them to contact the [Chief Executive Officer](mailto:ceo@devneta.org). <br />
+If the problem is with a member of our Human Resources or Management department, kindly direct them to contact the [Chief Executive Officer](mailto:ceo@devneta.org). <br />
 
 
 ---
