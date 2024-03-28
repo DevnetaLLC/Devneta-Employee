@@ -1,8 +1,9 @@
 ![Devneta LLC Banner](/main/assets/png/blackbanner.png)
 
-# Handbook Contents
+Contents of the Handbook,
 
-![Devneta LLC Banner](/main/assets/png/blackbanner.png)
+> [!IMPORTANT]
+> [Acknowledgment](#acknowledgment) is below.
 
    + [Section 1 - Introduction](/main/department/human-resource/resources/handbook/section1.md#section-1---introduction-to-devneta-llc)
       + [Section 1.1 - Welcome](/main/department/human-resource/resources/handbook/section1.md#section-11---welcome)
@@ -69,9 +70,18 @@ Also linking with other policies: <br />
    + [Usage of Technology](/main/department/human-resource/resources/handbook/usageoftech.md) Policy, and
    + [Support & Approval](/main/department/human-resource/resources/handbook/support-approval.md) Policy.
 
+At all times followed, and if an employee, possibly enforced:
+
+   + [Terms of Use](/main/policy/consumer/terms-of-use.md), <br />
+   + [Privacy Policy](/main/policy/consumer/privacy-policy.md), <br />
+   + [Acceptable Use Policy](/main/policy/consumer/acceptable-use.md), <br />
+   + [Cookies & Tracking Notice](/main/policy/consumer/cookies.md), <br />
+   + [Disclaimer](/main/policy/consumer/disclaimer.md), <br />
+   + [Shipping & Delivery Policy](/main/policy/consumer/shipping-delivery.md), <br />
+   + [Return Policy](/main/policy/consumer/returns.md). <br />
 
 > [!IMPORTANT]
-> If you have any questions relating to our Handbook, contact the [Human Resource](mailto:hr@devneta.org) or [Management](mailto:management@devneta.org) department.
+> If you have any questions relating to our Handbook or any additional policies, contact the [Human Resource](mailto:hr@devneta.org) or [Management](mailto:management@devneta.org) department.
 
 # Acknowledgment 
 
@@ -85,26 +95,13 @@ I have received the Devneta LLC handbook. I have read and agree to abide by the 
 
 I agree to abide by additional policies and procedures put in place by our [Usage of Technology](/main/department/human-resource/resources/handbook/usageoftech.md) Policy, our [Supported & Approval](/main/department/human-resource/resources/handbook/support-approval.md) Policy. <br />
 
-The Employee: ____________________________________________ <br />
+<br>
+
+
+The Employee:&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;  <br />
 
 <br />
 
-Date: _____________________________________________ <br />
+Date: &nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp;&nbsp;&ensp; <br />
 
-<br>
 
---- 
-
-Skip to Handbook sections: <br />
-
-  + [Section 1](/main/department/human-resource/resources/handbook/section1.md) <br />
-  + [Section 2](/main/department/human-resource/resourceshandbook/section2.md) <br />
-  + [Section 3](/main/department/human-resource/resourceshandbook/section3.md) <br />
-  + [Section 4](/main/department/human-resource/resourceshandbook/section4.md) <br />
-  + [Section 5](/main/department/human-resource/resourceshandbook/section5.md) <br />
-  + [Section 6](/main/department/human-resource/resourceshandbook/section6.md) <br />
-
-  + [Full Table of Contents](/main/department/human-resource/resourceshandbook/contents.md) <br />
-
-> [!IMPORTANT]
-> If you have any questions relating to our Handbook, contact our [Human Resource](mailto:hr@devneta.org) department.
