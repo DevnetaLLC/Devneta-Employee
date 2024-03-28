@@ -24,7 +24,7 @@ The following list of operating systems are considered officially supported by o
    + Linux Fedora → Fully Supported <br />
    + Linux NixOS → Fully Supported <br />
    + Linux openSUSE → Fully Supported <br />
-   + Linux Gentoo[^1] → Limited Support <br />
+   + Linux Gentoo → Limited Support <br />
 
 For operating systems marked "_Fully Supported_", employees can receive full support from our [IT department](mailto:it@devneta.org). <br />
 For operating systems marked "_Limited Support_", employees can receive support up to the limitations of our [IT department](mailto:it@devneta.org). <br />
@@ -80,9 +80,9 @@ The following list is of supported and approved web browsers <br />
 The following list explains our support and approval for Social Media platforms <br />
 
    + Discord → Approved and Fully Supported, <br />
-   + X (formerly "Twitter") → Approval Required and Limited Support, <br />
-   + Instagram → Approval Required and Limited Support, <br />
-   + Facebook → Approval Required and Limited Support. <br />
+   + X[^1] (formerly "Twitter") → Approval Required and Limited Support, <br />
+   + Instagram[^1] → Approval Required and Limited Support, <br />
+   + Facebook[^1] → Approval Required and Limited Support. <br />
 
 [^1]: Facebook, Instagram, and X are supported for [Marketing & Public Relations](mailto:pr@devneta.org) department only for the usage of **_company social media accounts_**.
 
