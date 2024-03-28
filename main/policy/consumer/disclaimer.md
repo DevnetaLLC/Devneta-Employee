@@ -2,6 +2,8 @@
 
 
 ## Disclaimers
+<small>Last Revision: March 27<sup>th</sup>, 2024</small> <br />
+
 
 ### 1. Website Disclaimer
 
@@ -9,10 +11,10 @@ The information provided by [Devneta LLC](https://github.com/DevnetaLLC) ("we", 
 
 All information on the Site and our mobile application is provided in good faith. However, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Site or our mobile application. <br />
 
-> [!IMPORTANT]
+> [!WARNING]
 > **_Under no circumstances shall we have any liability to you for any loss or damage of any kind incurred as a result of the use of the Site or our mobile application or reliance on any information provided on the Site and our mobile application._** <br />
 
-> [!CAUTION]
+> [!WARNING]
 > **_Your use of the Site and our mobile application and reliance on any information on the Site and mobile application is solely at your own risk._** <br />
 
 ---

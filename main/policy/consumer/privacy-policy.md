@@ -2,7 +2,7 @@
 
 
 # Privacy Policy
-<small>Last Revision: March 25<sup>th</sup>, 2024</small> <br />
+<small>Last Revision: March 27<sup>th</sup>, 2024</small> <br />
 
 > [!IMPORTANT]
 > Reading this Privacy Policy will help you understand your privacy rights. If you disagree with our policies, do not use our Services. <br />

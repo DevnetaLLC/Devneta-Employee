@@ -2,7 +2,7 @@
 
 
 # Cookie & Tracking Notice
-<small>Last Revision: March 25<sup>th</sup>, 2024</small> <br />
+<small>Last Revision: March 27<sup>th</sup>, 2024</small> <br />
 
 ## Section 1 
 
@@ -12,7 +12,7 @@ This Cookies & Tracking Notice explains how Devneta LLC ("Devneta", "Company", "
 
 It explains what these technologies are and why we use them, as well as your rights to control our use of them. <br />
 
-> [!NOTE]
+> [!WARNING]
 > In some cases we may use cookies to collect personal information, or that becomes personal information if we combine it with other information.
 
 

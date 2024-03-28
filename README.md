@@ -42,7 +42,7 @@ Resources within this section are required to be reviewed by **_all_** employees
 
 [Employment Eligibility Verification (Form I-9)](/main/department/human-resource/resources/i9/i-9.md) <br />
 
-> [!CAUTION]
+> [!WARNING]
 > In order to be classified as a paid **_employee_** of Devneta LLC, you must reside or have authorization to work in the United States, and <br />
 > Complete and submit the [Employment Eligibility Verification (Form I-9)](/main/department/human-resource/resources/i9/i-9.md) to the [Human Resource](mailto:hr@devneta.org) department.
 
@@ -55,7 +55,7 @@ In addition to completing the necessary steps for employment with Devneta LLC, y
    6. [Shipping & Delivery Policy](/main/policy/consumer/shipping-delivery.md), <br />
    7. [Return Policy](/main/policy/consumer/returns.md). <br />
 
-> [!CAUTION]
+> [!WARNING]
 > Failure to abide by, or enforce any of our policies can result in and up to the termination of your employment and ability to use our Services.
 
 ### Additional Forms for Employees
