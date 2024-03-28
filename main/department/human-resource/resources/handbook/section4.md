@@ -193,19 +193,13 @@ The following rules apply to all forms of electronic communications and media th
    + Employees who use devices on which information may be received and, or stored, including but not limited to cell phones, cordless phones, portable computers, fax machines, and voicemail communications are required to use these methods in strict compliance with the [Confidentiality](/main/department/human-resource/resources/handbook/section2.md#section-23---confidentiality) section of this Handbook. These communications tools should not be used for communication confidential or sensitive information or any trade secrets. <br />
    + Access to the Internet, websites, and other types of Company-paid computer access are to be used for Company-related business only. Any information about Devneta LLC, its products or services, or other types of information that will appear in the electronic media about the Company must be approved before the information is paced on any electronic information resource that is accessible to others. <br />
 
-Please review our the policy on [Company Provided Devices](/main/department/human-resource/resources/handbook/usageoftech.md#company-provided-devices) <br />
-
-Please review our policy on [Personal Devices](/main/department/human-resource/resources/handbook/usageoftech.md#personal-devices) <br />
-
-Any other policy involved in our [Usage of Technology](/main/department/human-resource/resources/handbook/usageoftech.md) Policy also apply. <br />
+Please review our the policy on [Company Provided Devices](/main/department/human-resource/resources/handbook/usageoftech.md#company-provided-devices) and [Personal Devices](/main/department/human-resource/resources/handbook/usageoftech.md#personal-devices) other policy involved in our [Usage of Technology](/main/department/human-resource/resources/handbook/usageoftech.md) Policy also apply. <br />
 
 For [Company Provided Devices](/main/department/human-resource/resources/handbook/usageoftech.md#company-provided-devices) and applicable [Personal Devices](/main/department/human-resource/resources/handbook/usageoftech.md#personal-devices) we have implemented policies related to the [Supported & Approved Operating Systems](/main/department/human-resource/resources/handbook/support-approval.md#supported-operating-systems), and [Supported & Approved Programs](/main/department/human-resource/resources/handbook/support-approval.md#supported--approved-applications). <br />
 
 Just as important would be our [Prohibited Operating Systems](/main/department/human-resource/resources/handbook/support-approval.md#prohibited-operating-systems) and [Prohibited Programs](/main/department/human-resource/resources/handbook/support-approval.md#prohibited-applications). <br />
 
-We also have a stance on [Social Media Platforms](/main/department/human-resource/resources/handbook/support-approval.md#social-media-platforms). <br />
-
-If desired, you are welcomed to review our [Additional Resources, Guides, and Notes](/main/department/human-resource/resources/handbook/support-approval.md#additional-resources).
+We also have a stance on [Social Media Platforms](/main/department/human-resource/resources/handbook/support-approval.md#social-media-platforms) and if desired, we have [Additional Resources, Guides, and Notes](/main/department/human-resource/resources/handbook/support-approval.md#additional-resources).
 
 ### Section 4.10 - Cell Phone Policy
 
