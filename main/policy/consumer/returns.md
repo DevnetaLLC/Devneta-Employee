@@ -2,6 +2,7 @@
 
 
 # Return Policy
+<small>Last Revision: March 27<sup>th</sup>, 2024</small> <br />
 
 # Section 1
 

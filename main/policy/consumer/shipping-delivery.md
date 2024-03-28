@@ -2,6 +2,7 @@
 
 
 # Shipping & Delivery Policy
+<small>Last Revision: March 27<sup>th</sup>, 2024</small> <br />
 
 # Section 1
 
@@ -45,7 +46,7 @@ If you are buying a subscription, then we will deliver on the _date of purchase_
 
 We offer worldwide shipping when [shipping rates are offered above](#section-21-what-are-my-shipping--delivery-options). <br />
 
-> [!CAUTION]
+> [!WARNING]
 > _Free Shipping_ is **_not_** valid on international orders.
 
 Please note we may be subject to various rules and restrictions in relation to some international deliveries, and you may be subject to additional taxes and costs over which we have no control. If such a case applies, you are responsible for complying with the laws applicable to the country where you live and will be responsible for any such additional costs or taxes. <br />

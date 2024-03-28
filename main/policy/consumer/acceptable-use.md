@@ -21,7 +21,7 @@ Alt. Domain: <devneta.site>
 
 This [Acceptable Use Policy](#section-11-acceptable-use-policy) ("Policy") is part of our [Terms of Use](/main/policy/consumer/terms-of-use.md) ("Terms") and should therefore be read alongside our main [Terms](/main/policy/consumer/terms-of-use.md). <br />
 
-> [!IMPORTANT]
+> [!WARNING]
 > If you do not agree with these Terms, please refrain from using our Services. Your continued use of our Service implies acceptance of these Legal Terms. <br />
 
 Please carefully review this Policy, which applies to any and all:
@@ -36,7 +36,7 @@ Please carefully review this Policy, which applies to any and all:
 
 ## Section 2.1 Use of our Services
 
-> [!CAUTION]
+> [!WARNING]
 > When you use our Services you warrant that you will comply with this Policy and with all applicable laws. <br />
 
 You also acknowledge that you **_may not_**:

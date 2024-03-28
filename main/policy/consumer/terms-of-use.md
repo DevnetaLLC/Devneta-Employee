@@ -14,7 +14,7 @@ We operate <https://devneta.org> as well as any other related products and servi
 These Terms constitute a legally binding contract made between you, whether personally or on behalf of an entity ("you"), and Devneta LLC
 concerning your access to and use of our Services. You agree that by accessing our Services, you have read, fully understood, and agree to be bound by **all** of these Terms. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > If you reside in a region that would cause one or more sections of any Policy linking to these [Terms of Use](#agreement-to-our-legal-terms) to be inadmissible legally, or unenforceable, you are **not** allowed to _access_, _use_, or _otherwise interact_ with **_any_** of our Services.
 
 > [!CAUTION]
@@ -23,7 +23,7 @@ concerning your access to and use of our Services. You agree that by accessing o
 > [!IMPORTANT]
 > Supplemental terms and conditions or documents that may be posted on our Services from time to time are hereby expressly incorporated herein by reference.
 
-> [!IMPORTANT]
+> [!WARNING]
 > We reserve the right, in our sole discretion, to make changes or modifications to these Legal Terms at **any time** and for **any reason**.
 > We will alert you about any such changes by updating the "Last Revision" date of these Legal Terms, and you waive any right to receive specific notice of each such change.
 > It is your responsibility to review these Terms to stay informed of updates periodically. You will be subject to, and will be deemed to have been made aware of and to have accepted,
@@ -69,10 +69,10 @@ Suppose we ever grant you permission to post, reproduce, or publicly display any
 
 We reserve all the rights not expressly granted to you in and to the Services, Content, and Marks. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > Any breach of these [Intellectual Property Rights](#21-our-intellectual-property) will constitute a material breach of our terms, and your right to use our Services will terminate.
 
-> [!IMPORTANT]
+> [!NOTE]
 > If you wish to make any use of our Services, Content, or Marks other than as set out in these Terms, please address your request to <legal@devneta.org>.
 
 <!-- 2.3 -->
@@ -113,7 +113,7 @@ By using our Services, you represent and warrant that: <br />
 + You will not use the Services for any illegal or unauthorized purpose; and <br />
 + Your use of the Services will not violate any applicable law or regulation. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > If you provide any information that is untrue, inaccurate, non-current, or incomplete, we have the right to **suspend** or **terminate** your account and refuse **any** and **all** current or future use of our Services (or any portion thereof).
 
 <br>
@@ -148,7 +148,7 @@ As a user of our Services, **you agree not to**:
 
 [^1]: Continuous posting of repetitive text.
 
-> [!CAUTION]
+> [!WARNING]
 > Our Services may not be used in connection with any commercial endeavors except for those that are specifically endorsed or approved by us.
 
 <br>
@@ -161,7 +161,7 @@ As a user of our Services, **you agree not to**:
 
 Our Services do not allow users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on our Services, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). <br />
 
-> [!IMPORTANT]
+> [!CAUTION]
 > Contributions may be viewable by other users of our Services and through third parties.
 
 ---
@@ -202,7 +202,7 @@ These Terms shall remain in full force and effect while you use our Services. <b
 
 If we terminate or suspend your account for any reason, you are **prohibited** from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including, without limitation, pursuing civil, criminal, and injunctive redress. <br />
 
-> [!CAUTION]
+> [!WARNING]
 > We may terminate your use or participation in our Services or delete any content or information that you posted at **any time**, **without** warning, in **_our sole discretion_**. <br />
 
 ---
@@ -218,9 +218,9 @@ We cannot guarantee that our services will be available at all times. We may exp
 You agree that we have **no liability whatsoever** for **any** loss, damage, or inconvenience caused by your inability to access or use our Services during downtimes or discontinuance of our Services. <br />
 
 > [!CAUTION]
->Nothing in these Terms will be construed to obligate us to maintain and support our Services or supply any corrections, updates, or releases connection therewith.
+> Nothing in these Terms will be construed to obligate us to maintain and support our Services or supply any corrections, updates, or releases connection therewith.
 
-> [!CAUTION]
+> [!WARNING]
 > We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify our Services at **any** time or for **any** reason **without** prior notice to you.
 
 ---
@@ -259,7 +259,7 @@ The Parties agree that the following Disputes are not subject to the above provi
 + any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and <br />
 + any claim for injunctive relief. <br />
 
-> [!IMPORTANT]
+> [!CAUTION]
 > If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts instead for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
 
 ---
@@ -315,7 +315,7 @@ You agree to defend, indemnify, and hold us harmless, including our subsidiaries
 
 Notwithstanding the foregoing, we reserve the right, at your expense to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
 ---
@@ -362,7 +362,7 @@ If any provision or part of a provision of these Terms is determined to be unlaw
 
 You agree that these Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms and the lack of signing by the parties hereto to execute these Terms. <br />
 
-> [!IMPORTANT]
+> [!NOTE]
 > There is **no** joint venture, partnership, employment, or agency relationship created between you and us as a result of these Terms or use of our Services.
 
 > ![CAUTION]
