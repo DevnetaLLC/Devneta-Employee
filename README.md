@@ -19,20 +19,27 @@ We have also included some resources to provide consumers in the account they re
 
 ---
 
+Sections Below:
+[Employee Resources](#employee-resources): <br />
+-> [Resources Required for Employment](#required-resources-for-employment), <br />
+-> [Forms for Employees](#forms-for-employees), <br />
+-> [Guides, Notes, and Additional Resources for Employees](#guides-notes-and-additional-resources-for-employees), <br />
+-> [Available Work for Employees, Contractors, and Contributors](#available-work-for-employees-contractors-and-contributors)<br />
+-> [View all Contact Methods](/main/department/human-resource/resources/contact.md). <br />
+
+[For our Consumers, Partners, Vendors, and other Clients](#for-our-consumers-partners-vendors-and-other-clients): <br />
+-> [Policies and Standards for Consumers](#policies-and-standards-for-consumers), <br />
+-> [Contact Methods for Consumers](#contact-methods-for-consumers), <br />
+-> [Forms, Applications, and Additional Resources for Consumers](#forms-applications-and-additional-resources-for-consumers). <br />
+
+
 ## Employee Resources
 
-[Available Work](/main/work.md)
-> [!IMPORTANT]
-> Any available work completed by a contributor should be directly emailed to the [Director of Research & Development.](mailto:kgarrow@devneta.org) until further notice. <br />
-> Or contact [ihazyy.tech](https://discord.com/users/578766456997543939) on Discord.
-
-<br>
-
-### Required Resources
+### Required Resources for Employment
 
 Resources within this section are required to be reviewed by **_all_** employees, contractors, and other forms of contributors who have access to our Services in any capacity. <br />
 
-[Employee Handbook](/main/department/human-resource/resources/handbook/ack.md) <br />
+Compliance and Acknowledgment of our [Employee Handbook](/main/department/human-resource/resources/handbook/ack.md) and all it's linked sections, policies, and other documentation is required for employment with us.
 
 > [!IMPORTANT]
 > With additions to the [Usage of Technology Policy](/main/department/human-resource/resources/handbook/usageoftech.md), and [Support & Approval Policy](/main/department/human-resource/resources/handbook/support-approval.md).
@@ -58,7 +65,7 @@ In addition to completing the necessary steps for employment with Devneta LLC, y
 > [!WARNING]
 > Failure to abide by, or enforce any of our policies can result in and up to the termination of your employment and ability to use our Services.
 
-### Additional Forms for Employees
+### Forms for Employees
 
 Resources within this section can aid employees in communicating problems, errors, and, or requests to the proper officials.
 
@@ -66,7 +73,7 @@ Resources within this section can aid employees in communicating problems, error
    + [Application & Program Request Form](/main/department/info-tech/forms/app-program-request.md), submitted to the [Research & Development](mailto:rd@devneta.org) department.<br />
    + [Tech Support Request Form](/main/department/info-tech/forms/techsupport.md), submitted to the [Research & Development](mailto:rd@devneta.org) department.<br />
 
-### Guides, Additional Notes, and Resources for Employees
+### Guides, Notes, and Additional Resources for Employees
 
 Resources within this section can provide employees with additional documentation.
 
@@ -79,9 +86,16 @@ Resources within this section can provide employees with additional documentatio
 
 ---
 
-## For our Consumers, Partners, Vendors, and other forms of Clients
+### Available Work for Employees, Contractors, and Contributors
 
-### Policy and Standards
+[Available Work](/main/work.md)
+> [!IMPORTANT]
+> Any available work completed by a contributor should be directly emailed to the [Director of Research & Development.](mailto:kgarrow@devneta.org) until further notice. <br />
+> Or contact [ihazyy.tech](https://discord.com/users/578766456997543939) on Discord.
+
+## For our Consumers, Partners, Vendors, and other Clients
+
+### Policies and Standards for Consumers
 
 Within this section, you will find the policies and standards that all of our consumers are expected to follow and abide by, <br />
 
@@ -95,7 +109,7 @@ It is the employees' job to provide a client with a copy of the following polici
    7. [Return Policy](/main/policy/consumer/returns.md). <br />
 
 
-### Consumer Contacts
+### Contact Methods for Consumers
 
 In the event you need the consumer to escalate their support request,
 you can direct them to the different contact methods we have described in our [Contact Methods for Consumers](/main/department/human-resource/resources/contact.md#contact-methods-for-consumers) <br />
@@ -103,7 +117,7 @@ you can direct them to the different contact methods we have described in our [C
 In some instances, a consumer might be required to contact a certain department, 
 please check the [Contact Methods for Departments](/main/department/human-resource/resources/contact.md#department-contact-emails) <br />
 
-### Consumer Forms and Applications
+### Forms, Applications, and Additional Resources for Consumers
 
 In the event a consumer would like to apply for a position with Devneta LLC, kindly direct them to our [Employment Application](/main/department/human-resource/applications/employment-app.md), 
 and inform them that we will require their [Consent to Background & Reference Check](/main/department/human-resource/consent/background-check.md) before proceeding with any application. <br />
