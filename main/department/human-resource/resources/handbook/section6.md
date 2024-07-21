@@ -33,7 +33,7 @@ _While we will make a reasonable effort to return the employee to their former p
 
 ### Section 6.2 - Paid Time Off Days
 
-Eligible employees are entitled to **_twenty-one_** (**_21_**) paid time off ("*_PTO_**") days **per year**. <br />
+Eligible employees are entitled to **_twenty-one_** (**_21_**) paid time off ("**_PTO_**") days **per year**. <br />
 
 > [!NOTE]
 > A PTO days' pay for regular [full-time employees](/main/department/human-resource/resources/handbook/section2.md#full-time-employees) will be calculated based on the employee's base pay rate times the number of hours the employee would otherwise have worked on that day.
