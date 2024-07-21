@@ -25,8 +25,8 @@
 
    - [X] Employment Application [View it here](/main/department/human-resource/applications/employment-app.md) <br />
    - [X] Consent to Background and Reference Check [View it here](/main/department/human-resource/consent/background-check.md) <br />
-   - [ ] Work Injury Report Form <br />
-   - [ ] Employee Evaluation Form <br />
+   - [X] Work Injury Report Form (A. W) <br />
+   - [X] Employee Evaluation Form (A. W) <br />
    - [ ] Employee Information Form <br />
    - [ ] Employee Information Release <br />
    - [ ] Direct Deposit Form <br />
